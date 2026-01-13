@@ -1,4 +1,5 @@
 🌲 **EcoType: Forest Cover Type Prediction Using Machine Learning**
+
 📌 **Project Overview**
 This project builds a **machine learning classification system** to predict the dominant **forest cover type** based on environmental and geographical features.
 It uses the **Forest Cover Type Dataset** and compares multiple ML models before deploying the best-performing model using a **Streamlit web application**.
