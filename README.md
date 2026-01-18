@@ -84,17 +84,17 @@ ________________________________________
 ________________________________________
 
 📁 **Project Structure**  
-ecotype-forest-cover-prediction/
-│
-├── cover_type.csv       #data  
-├── Project_3_EcoType: Forest Cover Classification .ipynb                 # Colab (Streamlit UI)
-├── ecotype_model.pkl       # Saved trained model
-├── ecotype_scaler.pkl             # Saved scaler
-├── ecotype_label_encoder.pkl      # Saved target encoder
-├── selected_features.pkl
-├── ecotype_confusion_matrix.png
-├── requirements.txt
-└── README.md
+ecotype-forest-cover-prediction/  
+│  
+├── cover_type.csv       #data    
+├── Project_3_EcoType: Forest Cover Classification .ipynb                 # Colab (Streamlit UI)  
+├── ecotype_model.pkl       # Saved trained model  
+├── ecotype_scaler.pkl             # Saved scaler  
+├── ecotype_label_encoder.pkl      # Saved target encoder  
+├── selected_features.pkl  
+├── ecotype_confusion_matrix.png  
+├── requirements.txt  
+└── README.md  
 
 ________________________________________
 
